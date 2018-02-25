@@ -42,7 +42,7 @@ class App extends Component {
         <div className="App">
           <div className="jumbotron">
             <h1 className="display-4">Hey Gang!</h1>
-            <p className="lead">This is a simple REACTJS based auto search .</p>
+            <p className="lead">This is a simple REACTJS based auto search by Amit Chauhan (amitchauh4n@gmail.com).</p>
             <hr className="my-4" />
             <div className="row">
               <div className="col" />
